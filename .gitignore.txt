@@ -1,0 +1,23 @@
+
+# Dataset files
+Dataset/
+*.zip
+
+# Model files
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
