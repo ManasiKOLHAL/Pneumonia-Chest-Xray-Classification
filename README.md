@@ -1,3 +1,6 @@
+![Pneumonia Detection Project Banner](pneumonia-project-banner.png)
+
+---
 # Pneumonia Detection from Chest X-ray Images Using Deep Learning
 
 **Project ID:** PRAICP-1012  
