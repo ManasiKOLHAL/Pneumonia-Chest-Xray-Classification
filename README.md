@@ -80,6 +80,10 @@ The training folder was divided into training and validation subsets using an 80
 
 These values represent the best validation accuracy recorded during training. They are not independent test-set results.
 
+### Model Validation Accuracy Comparison
+
+![Model Validation Accuracy Comparison](model-validation-comparison.png)
+
 ### ResNet50 Classification Report
 
 - Accuracy: 72%
